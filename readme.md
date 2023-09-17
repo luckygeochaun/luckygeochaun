@@ -4,4 +4,4 @@
 
 ## My name is Timothy McManus
 
-### I am the Founder of Lead Dev at Holy City Dev located in South Jersey.
+### I am the Founder of Holy City Dev located in South Jersey.
