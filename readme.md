@@ -2,6 +2,6 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=luckygeochaun)](https://git.io/streak-stats) -->
 
-## My name is Timothy McManus
+## My name is Tim
 
 ### I am the Founder of Holy City Dev located in South Jersey.
